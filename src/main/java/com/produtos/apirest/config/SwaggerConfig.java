@@ -38,7 +38,7 @@ public class SwaggerConfig {
                 "API REST de cadastro de produtos.",
                 "1.0",
                 "Terms of Service",
-                new Contact("Joaquim Vieira", "https://www.youtube.com/michellibrito",
+                new Contact("Joaquim Vieira de Souza", "https://www.youtube.com/c/jokasp35",
                         "joaquimvieirasp@gmail.com"),
                 "Apache License Version 2.0",
                 "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>()
